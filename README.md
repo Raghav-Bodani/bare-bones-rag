@@ -2,6 +2,10 @@
 
 *A simple functional RAG built to better understand how the tech behind LLMs and RAGs works.*
 
+## Why this exists
+
+I built this to understand the RAG pipeline end to end by writing the smallest version that works. For the reasoning behind specific choices, what I deliberately left out, what I'd build next, and how I think. see [NOTES.md](NOTES.md).
+
 ## What it does
 
 The system ingests `.txt` files, generates local vector embeddings, and stores them in a local Qdrant instance. An LLM can then be queried over these embeddings through a Streamlit frontend, answers are grounded in the ingested documents, not the model's parametric knowledge.
@@ -102,11 +106,7 @@ This is a deliberately minimal build. Known limitations:
 - **Fixed chunking.** 500-token chunks with 100-token overlap. No semantic or recursive chunking.
 - **No evaluation harness.** Retrieval and generation quality are not measured.
 - **Single collection, single-user.** No multi-tenant or session isolation.
-
-## Why this exists
-
-I built this to understand the RAG pipeline end to end by writing the smallest version that works. For the reasoning behind specific choices, what I deliberately left out, and what I'd build next, see [NOTES.md](NOTES.md).
-
+  
 ## License
 
 [MIT](LICENSE)
