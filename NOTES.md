@@ -46,7 +46,7 @@ I went down a long rabbit hole on cosine similarity and ended up with a much bet
 
 I also got my first real reps in scrappy debugging and working in the terminal. Every project before this had been a tutorial, where the path was laid out and the errors were anticipated. This was the first time I was running into errors with no script to follow, and the first time I had to read tracebacks seriously. That muscle was new.
 
-And finally: even with heavy AI assistance, this was a project I directed end to end. The pipeline structure, the file layout, the decisions about what went where... all mine. The code was partly AI-written; the system was not. That distinction turned out to matter more than I expected.
+And finally: even with heavy AI assistance, this was a project I directed end to end. The pipeline structure, the file layout, the decisions about what went where... all mine. The code was partly AI-written, the system was not. I learned how to use AI as an assistant and a guide at the same time while learning and not relying on it blindly.
 
 ## What I'd build next
 
