@@ -1,0 +1,68 @@
+📄 Employee Handbook & Policy Manual
+Company Name: OmniCorp Global Solutions Version: 4.2 Last Updated: October 15, 2025 Status: DRAFT / INTERNAL USE ONLY
+
+1. Code of Conduct & Ethics
+1.1 Professionalism
+All employees of [Company Name] are expected to maintain a high standard of professionalism. This includes treating colleagues, clients, and vendors with respect and dignity. Discrimination or harassment of any kind based on race, color, religion, gender, or orientation will not be tolerated.
+
+1.2 Conflicts of Interest
+Employees must avoid any interest, investment, or association that interferes with the independent exercise of judgment in the Company’s best interest.
+
+Outside Employment: Moonlighting is permitted provided it does not conflict with primary duties or involve a direct competitor.
+
+Gifts: Employees may not accept gifts valued over $50.00 from vendors or clients.
+
+2. Work Schedules & Attendance
+2.1 Standard Hours
+Core Hours: 9:00 AM to 5:00 PM (Local Time).
+
+Lunch Break: 1 Hour (unpaid).
+
+Flex-Time: Available upon manager approval, provided core meetings are attended.
+
+2.2 Remote Work Policy (Hybrid)
+Employees are eligible for the Hybrid Work Model after their probationary period (90 days).
+
+In-Office: Tuesdays and Thursdays are mandatory in-office days.
+
+Remote: Monday, Wednesday, and Friday are optional remote days.
+
+3. Leave & Time Off (PTO)
+3.1 Paid Time Off (PTO) Accrual
+PTO accrues bi-weekly based on tenure: | Years of Service | Accrual Rate (Per Pay Period) | Annual Total | | :--- | :--- | :--- | | 0 - 2 Years | 4.62 Hours | 15 Days | | 3 - 5 Years | 6.15 Hours | 20 Days | | 5+ Years | 7.69 Hours | 25 Days |
+
+3.2 Sick Leave
+Employees are granted 5 days of separate sick leave per calendar year. A doctor’s note is required for absences exceeding 3 consecutive days.
+
+4. Information Technology & Security
+4.1 Acceptable Use
+Company devices (laptops, phones) are tools for business.
+
+Prohibited: Streaming services (unless work-related), gambling sites, and adult content.
+
+Software: Unauthorized installation of software is strictly prohibited.
+
+4.2 Data Protection
+All sensitive client data must be encrypted. Employees must lock their workstations (Win+L or Cmd+Control+Q) whenever stepping away from their desk. Passwords must be changed every 90 days.
+
+5. Expense Reimbursement
+5.1 Travel & Meals
+Air Travel: Economy class for domestic flights; Premium Economy for international flights over 8 hours.
+
+Per Diem: $75.00 per day for meals when traveling.
+
+Receipts: Required for any single expense over $25.00.
+
+5.2 Submission Deadline
+Expense reports must be submitted via the internal portal by the last Friday of the month. Late submissions may be delayed to the next payroll cycle.
+
+6. Disciplinary Action
+Violations of these policies may result in disciplinary action, up to and including termination of employment. The standard procedure follows a "Three Strike" model:
+
+Verbal Warning: Documented by manager.
+
+Written Warning: Formal meeting with HR.
+
+Final Warning/Termination: Review by the governance committee.
+
+This document is a sample for testing purposes. It does not constitute legal advice.
