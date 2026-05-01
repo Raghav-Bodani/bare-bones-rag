@@ -1,9 +1,17 @@
 import os
 from qdrant_client import QdrantClient, models
-from app.config import COLLECTION_NAME, VECTOR_SIZE, DISTANCE_METRIC
+from app.config import COLLECTION_NAME, VECTOR_SIZE
+
+DISTANCE_METRIC = models.Distance.COSINE
 
 
 client = QdrantClient(path="qdrant_data")
+
+DISTANCE_MAP = {
+    "COSINE": models.Distance.COSINE,
+    "DOT": models.Distance.DOT,
+    "EUCLID": models.Distance.EUCLID,
+}
 
 def setup_collection():
     if not client.collection_exists(COLLECTION_NAME):

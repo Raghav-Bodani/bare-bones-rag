@@ -8,7 +8,7 @@ EMBEDDING_DIM = 384  # must match EMBEDDING_MODEL's output dim
 
 # Vector store
 COLLECTION_NAME = "rigel_ai_docs_v1"
-DISTANCE_METRIC = models.Distance.COSINE # convert to models.Distance.COSINE in store.py
+VECTOR_SIZE=384
 
 # Ingest defaults
 DOC_ID = "example_doc_v1"
